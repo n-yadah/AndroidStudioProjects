@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Lab3SimpleCalculator</string>
+    <string name="resulttext">resultText</string>
+    <string name="button_07">7</string>
+    <string name="button_06">6</string>
+    <string name="button_05">5</string>
+    <string name="button_04">4</string>
+    <string name="button_03">3</string>
+    <string name="button_02">2</string>
+    <string name="button_01">1</string>
+    <string name="button_00">0</string>
+    <string name="button_08">8</string>
+    <string name="button_09">9</string>
+    <string name="button_add">+</string>
+    <string name="button_sub">-</string>
+    <string name="button_dot">.</string>
+    <string name="button_div">\\u00F7</string>
+    <string name="button_mult">\\u00D7</string>
+    <string name="button_ce">CE</string>
+</resources>

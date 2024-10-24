@@ -1,0 +1,50 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Local configuration file (SDK paths, etc)
+local.properties
+
+# Android Studio/IntelliJ project files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Compiled Java files
+*.class
+
+# APK files
+*.apk
+
+# Generated binary files (DEX, etc)
+*.dex
+
+# Keystore files (for app signing)
+*.keystore
+*.jks
+
+# MacOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
