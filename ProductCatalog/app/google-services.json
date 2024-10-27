@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564060760963",
+    "project_id": "product-catalog-33a67",
+    "storage_bucket": "product-catalog-33a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564060760963:android:a9a7a0f2aef5ff1eea64b6",
+        "android_client_info": {
+          "package_name": "com.example.lab5firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ELyiZr4GjJfOo4EpZPMTx9eXajTkyVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

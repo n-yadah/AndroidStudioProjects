@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Product Catalog</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_price">Enter price</string>
+    <string name="add">ADD</string>
+    <string name="products">Products</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="product_name">Product Name</string>
+</resources>
