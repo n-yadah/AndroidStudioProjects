@@ -1,5 +1,5 @@
 # AndroidStudioProjects
 Portfolio of Android Studio Projects: Apps and Demos
-* Product Catalog
+* Product Catalog (Firebase)
 * Simple Calculator
-* Profile Manager (db)
+* Profile Manager 
